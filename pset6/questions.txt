@@ -1,0 +1,11 @@
+0.  TODO    longest word in the dictionary, lung disease caused by inhaling ash and sand
+1.  TODO    gives the measurements of the usage of a resource, like CPU time use
+2.  TODO    16
+3.  TODO    to calculate the usage by the difference between values
+4.  TODO    Repeat while there are words to check and only for alpha dash characters, then assign an address to the each characters in the word, while ignoring words with more than 45 characters and with numbers.
+5.  TODO    To discard the all other possible string of characters that don’t compose words like numbers, and to be able to define the begin and end of a word 
+6.  TODO    to use them as a bechmark
+7.  TODO    Create a trie that will index each letter so I can cursor by the nodes creating children when necessary so I can check the spelling of the word against the dictionary file.
+8.  TODO    2.96
+9.  TODO    None. I am just glad is finally running.
+10. TODO    I have an issue freeing memory because I don’t seen to be able to get into the children of the tries to free their memory

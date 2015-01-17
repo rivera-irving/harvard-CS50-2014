@@ -1,0 +1,20 @@
+0.  TODO BMP: 2^N, GIF 256, JPEG 16-MILLION, PNG 16-MILLION + transparency, 
+1.  TODO GIF
+2.  TODO lossy discard some data during the conversion
+         lossless store the data of the image during conversion without discarting "it transforms"
+3.  TODO JPEG
+4.  TODO the content in the table get erase, but the structure of the table reminds
+5.  TODO use a system that delete the data and erase all sector by writng ceros on them
+6.  TODO defines the limits of integer types capable of holding pointers; allowable values per type
+7.  TODO defines how the data is going to be use "macro/format" what is the #bits width
+8.  TODO BYTE: 1, DWORD 4, LONG 4, WORD 2,
+9.  TODO 0x42 0x4D in hexadecimal, BM in ASCII
+10. TODO bfSize, size of the bitmap file; biSize, size of structs
+11. TODO If biHeight is negative, the bitmap is a top-down DIB with the origin at the upper left corner
+12. TODO the biBitCount
+13. TODO because it could not write a output file
+14. TODO because we are working with a single object (data element) "smiley.bmp"
+15. TODO 1
+16. TODO goes over any padding and finds the next "color" pixel
+17. TODO a constant integer that specfies an offset provided in the data relative to the current file position
+18. TODO Milo Banana dun it
